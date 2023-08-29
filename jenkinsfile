@@ -1,4 +1,3 @@
-
 node {
     stage('clone ') {
     git 'https://github.com/ppe105/jenkins-helloworld-ppe105.git'
